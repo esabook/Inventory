@@ -43,7 +43,8 @@ function GetGlobalConnectionOptions()
 }
  ```
 
-
+## Demo overview
+![](schema/demo_overiew.gif)
 
 ## For more documentation/help :
 
